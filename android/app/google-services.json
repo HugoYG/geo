@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "753303092299",
+    "project_id": "nubeadm-eea5a",
+    "storage_bucket": "nubeadm-eea5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753303092299:android:c4e591fd0f7c06b6fae1ce",
+        "android_client_info": {
+          "package_name": "com.comredit.geo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753303092299-d316eqvftavr88k7a385ni4mvaovgaor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.comredit.geo",
+            "certificate_hash": "4085485d3d6797532620e559cc8f008e82218c34"
+          }
+        },
+        {
+          "client_id": "753303092299-m9nshjlm2qi5e3lqvhjf8pn2p37s2mgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.comredit.geo",
+            "certificate_hash": "f9f51c94ab1c459f74efe5acc1a7d37f59766139"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSaZP1b0ZUefj8o44m04qSSGBJdz-Ca9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753303092299-8o9qmea8n2qlodlsrlqt14pvmi5tlk0e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.comredit.geo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
