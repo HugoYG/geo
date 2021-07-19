@@ -1,6 +1,6 @@
 # geo
 
-A new Flutter project.
+A new Flutter App to get Background Locations on IOS n Android.
 
 ## Getting Started
 
